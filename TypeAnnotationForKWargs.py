@@ -2,7 +2,7 @@
 https://peps.python.org/pep-0692/#type-annotation-for-keyword-arguments
 function's **kwargs can be passed as any arbitrary number of keyword arguments
 or dictionary preceded by ** unpacking operators to pass a dictionary's
-keys-value pairs a keywrod argument
+keys-value pairs a keyword argument
 TYPEDICT subclass can document keywords arguments names and their types
 Each keyword argument name is the attribute and corresponding value's type is
  type hint
