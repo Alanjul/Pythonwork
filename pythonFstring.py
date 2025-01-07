@@ -2,7 +2,7 @@
 F-strings in the grammar
 """
 print("F-string in python")
-#interpreter will recorgnizes quotes in place holder as strirng literal being formated
+#interpreter will recorgnizes quotes in place holder as string literal being formated
 #not delimiters for f string
 print(f'Face{'Frequency': >13}')
 #macth -case used as if else in python and similar to switch
