@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetcodeProblemPython.iml" filepath="$PROJECT_DIR$/.idea/LeetcodeProblemPython.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/STRINGDEEPLOOK.iml" filepath="$PROJECT_DIR$/.idea/STRINGDEEPLOOK.iml" />
+>>>>>>> 8a6ee487886de7c174b3a0de02df987c3b23685c
     </modules>
   </component>
 </project>

@@ -8,6 +8,7 @@
         </list>
       </option>
     </inspection_tool>
+<<<<<<< HEAD
     <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredIdentifiers">
         <list>
@@ -15,5 +16,7 @@
         </list>
       </option>
     </inspection_tool>
+=======
+>>>>>>> 8a6ee487886de7c174b3a0de02df987c3b23685c
   </profile>
 </component>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (LeetcodeProblemPython)" />
+=======
+    <option name="sdkName" value="Python 3.12 (STRINGDEEPLOOK)" />
+>>>>>>> 8a6ee487886de7c174b3a0de02df987c3b23685c
   </component>
 </project>
